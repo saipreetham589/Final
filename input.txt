@@ -1,0 +1,6 @@
+https://www.w3schools.com/java/java_scope.asp 
+https://www.w3schools.com/java/java_classes.asp 
+https://www.w3schools.com/java/java_constructors.asp 
+https://www.w3schools.com/java/java_ref_arrays.asp 
+https://www.w3schools.com/java/java_ref_math.asp 
+https://www.w3schools.com/java/java_lambda.asp 
