@@ -1,0 +1,43 @@
+Enter the word you want to search : 
+Java
+https://www.w3schools.com/java/java_classes.asp has Java 3 times
+https://www.w3schools.com/java/java_ref_arrays.asp has Java 3 times
+https://www.w3schools.com/java/java_constructors.asp has Java 2 times
+https://www.w3schools.com/java/java_ref_math.asp has Java 2 times
+https://www.w3schools.com/java/java_lambda.asp has Java 2 times
+Enter the word you want to search : 
+of
+https://www.w3schools.com/java/java_classes.asp has of 17 times
+https://www.w3schools.com/java/java_scope.asp has of 14 times
+https://www.w3schools.com/java/java_lambda.asp has of 13 times
+https://www.w3schools.com/java/java_constructors.asp has of 10 times
+https://www.w3schools.com/java/java_ref_arrays.asp has of 10 times
+https://www.w3schools.com/java/java_ref_math.asp has of 9 times
+Enter the word you want to search : 
+Comments
+Enter the word you want to search :
+
+
+
+
+Multi Word:
+
+Enter the word you want to search : 
+of in
+https://www.w3schools.com/java/java_lambda.asp has [of, in, ] 26 times
+https://www.w3schools.com/java/java_classes.asp has [of, in, ] 25 times
+https://www.w3schools.com/java/java_scope.asp has [of, in, ] 21 times
+https://www.w3schools.com/java/java_ref_arrays.asp has [of, in, ] 15 times
+https://www.w3schools.com/java/java_constructors.asp has [of, in, ] 14 times
+https://www.w3schools.com/java/java_ref_math.asp has [of, in, ] 13 times
+Enter the word you want to search : 
+Comment
+Enter the word you want to search : 
+Comment of
+https://www.w3schools.com/java/java_classes.asp has [of, ] 17 times
+https://www.w3schools.com/java/java_scope.asp has [of, ] 14 times
+https://www.w3schools.com/java/java_lambda.asp has [of, ] 13 times
+https://www.w3schools.com/java/java_constructors.asp has [of, ] 10 times
+https://www.w3schools.com/java/java_ref_arrays.asp has [of, ] 10 times
+https://www.w3schools.com/java/java_ref_math.asp has [of, ] 9 times
+Enter the word you want to search :
